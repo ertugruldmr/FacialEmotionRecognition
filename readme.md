@@ -28,7 +28,8 @@
   - [__Licance__](#license)
   - [__Connection Links__](#connection-links)
   - __NOTE__: 
-  	- The model file exceeded limitations. you can download it from this [link](https://huggingface.co/spaces/ErtugrulDemir/FacialEmotionRecognition/resolve/main/Basic_EmotionModel.zip). The other demo links are also included the model download link.
+  	- The model file exceeded limitations. you can download it from this [link](https://huggingface.co/spaces/ErtugrulDemir/FacialEmotionRecognition/resolve/main/Basic_EmotionModel.zip). 
+  	- The other demo links are also included the model download link.
 
 ## __Brief__ 
 
