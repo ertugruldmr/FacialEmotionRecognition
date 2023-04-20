@@ -1,4 +1,4 @@
-We can't push the study.ipynb because  size of the model exceeded the github file limit. 
+We can't push the model because  size of the model exceeded the github file limit. 
 You can download the model from this link (study.ipynb):
-	-> [Colab Source Code For code reading] 
-	-> [File Link for download] 
+	-> [Colab Source Code For code reading] https://colab.research.google.com/drive/1T9VJ8LTYekK8Q10dXzUWvO4naHz94Db-
+	-> [File Link for download] https://huggingface.co/spaces/ErtugrulDemir/FacialEmotionRecognition/resolve/main/Basic_EmotionModel.zip
