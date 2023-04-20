@@ -15,8 +15,8 @@
 - (A) [__Brief__](#brief)
   - [__Project__](#project)
   - [__Data__](#data)
-  - [__Demo__](#demo) -> [Live Demo]()
-  - [__Study__](#problemgoal-and-solving-approach) -> [Colab]()
+  - [__Demo__](#demo) -> [Live Demo](https://ertugruldemir-facialemotionrecognition.hf.space)
+  - [__Study__](#problemgoal-and-solving-approach) -> [Colab](https://colab.research.google.com/drive/14DrNsiYIRYUr3PKhtgF0wB5htVh15wK1)
   - [__Results__](#results)
 - (B) [__Detailed__](#Details)
   - [__Abstract__](#abstract)
@@ -27,7 +27,8 @@
     - [__(D) Deployment as web demo app__](#g-deployment-as-web-demo-app)
   - [__Licance__](#license)
   - [__Connection Links__](#connection-links)
-  - NOTE: The model file exceeded limitations. you can download it from this [link]().
+  - __NOTE__: 
+  - 	The model file exceeded limitations. you can download it from this [link](https://huggingface.co/spaces/ErtugrulDemir/FacialEmotionRecognition/resolve/main/Basic_EmotionModel.zip). The other demo links are also included the model download link.
 
 ## __Brief__ 
 
@@ -45,16 +46,16 @@
   <table>
     <tr>
     <td>
-        <a target="_blank" href="" height="30"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30">[Demo app] HF Space</a>
+        <a target="_blank" href="https://ertugruldemir-facialemotionrecognition.hf.space" height="30"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30">[Demo app] HF Space</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/14DrNsiYIRYUr3PKhtgF0wB5htVh15wK1"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
+        <a target="_blank" href="https://github.com/ertugruldmr/FacialEmotionRecognition/blob/main/study.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
       </td>
     <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/14DrNsiYIRYUr3PKhtgF0wB5htVh15wK1"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
       </td>
     </tr>
   </table>
@@ -64,11 +65,11 @@
 - Description
     - __classify the Face images__ into one of the 7 emotion class correctly.
     - __Usage__: Set the feature values through sliding the radio buttons then use the button to predict.
-- Embedded [Demo]() window from HuggingFace Space
+- Embedded [Demo](https://ertugruldemir-facialemotionrecognition.hf.space) window from HuggingFace Space
     
 
 <iframe
-	src=""
+	src="https://ertugruldemir-facialemotionrecognition.hf.space"
 	frameborder="0"
 	width="850"
 	height="450"
@@ -239,7 +240,7 @@ The project aimed predict the house prices using the features. The study include
     - Usage: upload or select the image for classfying then use the button to predict.
   - Demo
     - The demo app in the demo_app folder as an individual project. All the requirements and dependencies are in there. You can run it anywhere if you install the requirements.txt.
-    - You can find the live demo as huggingface space in this [demo link]() as full web page or you can also us the [embedded demo widget](#demo)  in this document.  
+    - You can find the live demo as huggingface space in this [demo link](https://ertugruldemir-facialemotionrecognition.hf.space) as full web page or you can also us the [embedded demo widget](#demo)  in this document.  
     
 ## License
 - This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
